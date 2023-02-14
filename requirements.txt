@@ -1,0 +1,8 @@
+pystan>3.0.0
+pandas
+matplotlib
+arviz
+seaborn
+nest_asyncio
+stan
+patsy
